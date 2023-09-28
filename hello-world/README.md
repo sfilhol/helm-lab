@@ -16,6 +16,7 @@ To install the chart with the release name `my-release`:
 helm install my-release hello-world
 To uninstall the chart:
 helm uninstall my-release
+```
 
 ## Configuration
 
