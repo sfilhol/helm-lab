@@ -10,9 +10,5 @@ ingress:
   hosts:
     - name: wordpress.example.com
       path: /
-persistence:
-  enabled: true
-  storageClass: standard
-  size: 10Gi
 metrics:
   enabled: true
